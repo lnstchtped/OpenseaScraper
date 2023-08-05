@@ -23,19 +23,19 @@ A tool to scrape images from nft collections on Opensea
 3. **Navigate to the Directory**
   
     ```bash
-      cd cmd/dist
+    cd cmd/dist
     ```
     
 4. **Install dependencies**
    
     ```bash
-       go mod tidy
+    go mod tidy
     ```
 
 5. **Build the Project**
    
     ```bash
-       go build .
+    go build .
     ```
 
 6. **Run the Executable**
